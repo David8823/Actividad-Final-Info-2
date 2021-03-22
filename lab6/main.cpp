@@ -3,7 +3,7 @@
 using namespace std;
 int a;
 
-
+// su cara es horrible
 int main()
 {
     cout<<"introdusca un numero"<<endl;
